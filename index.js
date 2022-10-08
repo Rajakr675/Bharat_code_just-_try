@@ -15,4 +15,4 @@ app.get('/users',(req,res) => {
     res.send('<h1>chutiya raja</h1>')
 });
 
-app.listen(PORT,console.log(`server started on port ${PORT}`));
+app.listen(PORT,console.log(`server  started on port ${PORT}`));
